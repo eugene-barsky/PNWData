@@ -11,8 +11,9 @@
 
 Order of Marketing and Audience:  
 1. datamanage list  
-2. datacure list  
+2. datacure list 
 3. regional librarians, data scientists
+4. Candata-lib list - 300 librarians and data folks
 
 ####Registration
 - [ ] *Steph* (Google Form)
@@ -40,7 +41,7 @@ David Eaves - https://eaves.ca/speeches/
 | Time     | Activity |
 |----------|----------|
 | 9a       |   Intro       |
-| 9:15a    |   Keynote: Tim Vines      |
+| 9:15a    |   Keynote: Tim Vines, UBC on Long Tail of Research Data      |
 | 9:45a    |   Q & A      |
 | 10a    |   Lightning Talks & Demos        |
 | 11:30a   |   Break       |
