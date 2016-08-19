@@ -46,7 +46,7 @@ David Eaves - https://eaves.ca/speeches/
 | 11:30a   |   Break       |
 | 11:45a   |   More Lightning Talks & Demos       |
 | 1p       |   Lunch       |
-| 2:15p    |   Ethics & Privacy for Sensitive Data **Eugene Contact**        |
+| 2:15p    |   Ethics & Privacy for Sensitive Data in BC - Kaitlyn Gutteridge, UBC Advanced Research Computing  **Eugene Contact**        |
 | 2:45p    |   International Policy Perspectives Panel       |
 |          |     * Canada - Council         |
 |          |     * UK - EU Commission policy on data sharing **Steph contacting**     |
